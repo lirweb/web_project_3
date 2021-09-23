@@ -1,0 +1,10 @@
+.place__button {
+    grid-area: btn;
+    width: 248px;
+    align-content: center;
+    text-align: center;
+    padding: 0;
+    background-color: #0278fe;
+    border-radius: 4px;
+    max-height: 48px;
+}
