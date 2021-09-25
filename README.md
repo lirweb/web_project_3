@@ -11,11 +11,11 @@ This is a project that showcases the hometowns of some of Practicum's employees.
   
 **The technologies that were used:**
 
-HTML
-CSS
-Flexbox
-Grid layout
-BEM methodology
+* HTML
+* CSS
+* Flexbox
+* Grid layout
+* BEM methodology
 
 **You can see the the complete project in the following link:**
 https://lirweb.github.io/web_project_3/
