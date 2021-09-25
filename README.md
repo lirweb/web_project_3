@@ -7,7 +7,7 @@
 **Intro**
 
 This is the third project that was created on the Yandex Practicum Web development course.
-This is a project that showcases the hometowns of some of Practicum's employees. We've made it so all the elements are displayed correctly on popular screen sizes. More time was invested in completing this project since it was more difficult than previous ones.  
+This project showcases the hometowns of some of Practicum's employees. It was made in a way that all the elements are displayed correctly on popular screen sizes. More time was invested in completing this project since it was more difficult than previous ones.  
   
 **The technologies that were used:**
 
