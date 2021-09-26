@@ -1,0 +1,16 @@
+.cover__hover {
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    position: absolute;
+    background-image: url(../../../images/background.jpg);
+    background-position: center;
+    background-size: cover;
+    opacity: 0.3;
+  }
+
+  .cover:hover .cover__hover{
+    opacity: 0.8;
+}
+
+  
