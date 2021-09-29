@@ -17,7 +17,7 @@ This project showcases the hometowns of some of Practicum's employees. It was ma
 * Grid layout
 * BEM methodology
 
-**You can see the the complete project in the following link:**
+**You can see the complete project in the following link:**
 https://lirweb.github.io/web_project_3/
 
 
