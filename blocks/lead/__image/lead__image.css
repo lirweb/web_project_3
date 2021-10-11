@@ -8,7 +8,7 @@
 }
 
 @media screen and (max-width: 786px) {
-    .lead.lead__image {
+    .lead__image {
       min-width: 100%;
     }
   }

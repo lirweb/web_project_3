@@ -17,6 +17,5 @@
   @media screen and (max-width: 320px) {
     .intro__quote {
       margin: 40px auto 0;
-      width: 100%;
     }
   }

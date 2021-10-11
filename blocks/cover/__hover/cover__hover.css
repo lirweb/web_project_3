@@ -6,11 +6,12 @@
     background-image: url(../../../images/background.jpg);
     background-position: center;
     background-size: cover;
-    opacity: 0.8;
+    opacity: 0.3;
   }
 
   .cover:hover .cover__hover{
-    opacity: 0.3;
+    background-color: #0063d2;
+    opacity: 0.8;
 }
 
   

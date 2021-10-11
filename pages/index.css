@@ -4,7 +4,7 @@
 @import url(../vendor/fonts/fonts.css);
 
 @import url(../blocks/page/page.css);
-@import url(../blocks/page/page__home.css);
+@import url(../blocks/page/__home/page__home.css);
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__title/header__title.css);
@@ -37,12 +37,10 @@
 @import url(../blocks/place/__button/place__button.css);
 @import url(../blocks/place/__artist-name/place__artist-name.css);
 @import url(../blocks/place/__artist-header/place__artist-header.css);
-@import url(../blocks/place/__button-nft/place__button-nft.css);
 
 @import url(../blocks/cover/__content/cover__content.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__quote/cover__quote.css);
-@import url(../blocks/cover/__button/cover__button.css);
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__hover/cover__hover.css);
 @import url(../blocks/cover/__button-tickets/cover__button-tickets.css);
