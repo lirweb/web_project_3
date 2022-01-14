@@ -1,0 +1,14 @@
+.page__home {
+    width: 100%;
+    min-height: 100vh;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    min-width: 320px;
+}
+
+@media screen and( max-width:768px) {
+    .page__home {
+        margin: 0;
+    }
+}

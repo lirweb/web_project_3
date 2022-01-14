@@ -1,0 +1,25 @@
+.cover__quote {
+    list-style: none;
+    font-style: normal;
+    font-weight: normal;
+    max-width: 280px;
+    padding: 0;
+    text-align: center;
+    font-size: 18px;
+    line-height: 22px;
+    margin: 32px auto 32px;
+    height: 66px;
+}
+
+@media screen and (max-width: 768px) {
+    .cover__quote {
+        font-size: 18px;
+        line-height: 22px;
+        width: 280px;
+        height: 66px;
+        
+    }
+}
+
+
+    
