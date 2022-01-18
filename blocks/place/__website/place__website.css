@@ -1,0 +1,17 @@
+.place__website {
+    grid-area: website;
+    align-self: end;
+    align-content: flex-end;
+}
+
+.place__website:last-child {
+    margin-bottom: 0;
+}
+
+@media screen and (max-width: 320px) {
+    .place__website {
+        margin-top: 0px;
+        font-size: 18px;
+        width: 288px;
+    }
+}
