@@ -1,0 +1,23 @@
+.place__artist-name {
+    padding: 0;
+    margin: 0;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 122%;
+    font-style: normal;
+    align-self: end;
+    max-width: 456px;
+    justify-content: flex-start;
+    align-self: flex-start;
+    display: flex;
+}
+
+.place__artist-name:last-child {
+    margin-bottom: 0px;
+}
+
+@media screen and (max-width: 320px) {
+    .place__artist-name {
+        width: 288px;
+    }
+}
