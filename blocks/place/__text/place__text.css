@@ -1,0 +1,33 @@
+   .place__text {
+       grid-area: text;
+   }
+   
+   .place__text:last-child {
+       padding-bottom: 0;
+       max-width: 100%;
+       margin-top: 48px;
+   }
+   
+   @media screen and (max-width: 768px) {
+       .place__text {
+           margin: 0;
+       }
+   }
+   
+   @media screen and (max-width: 650px) {
+       .place__text {
+           margin-bottom: 30px;
+       }
+   }
+   
+   @media screen and (max-width:338px) {
+       .place__text {
+           margin-bottom: 0;
+       }
+   }
+   
+   @media screen and (max-width: 320px) {
+       .place__text {
+           margin-bottom: 0px;
+       }
+   }
