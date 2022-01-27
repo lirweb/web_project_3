@@ -1,0 +1,51 @@
+            .place__button {
+                grid-area: btn;
+                width: 248px;
+                align-content: center;
+                text-align: center;
+                background-color: #0278fe;
+                border-radius: 4px;
+                max-height: 22px;
+                max-width: 208px;
+                text-decoration: none;
+                border: none;
+                color: #ffffff;
+                padding: 13px 20px;
+                display: inline-block;
+                font-style: normal;
+                font-size: 18px;
+                line-height: 22px;
+                cursor: pointer;
+                font-weight: 600;
+                margin-left: 0;
+            }
+            
+            .place__button:hover {
+                background-color: #0063d2;
+            }
+            
+            .place__button:last-child {
+                margin-bottom: 0;
+            }
+            
+            @media screen and (max-width: 768px) {
+                .place__button {
+                    margin-top: 0;
+                }
+            }
+            
+            @media screen and (max-width: 534px) {
+                .place__button {
+                    width: 288px;
+                    margin: 0;
+                    padding: 13px 40px;
+                }
+            }
+            
+            @media screen and (max-width: 338px) {
+                .place__button {
+                    margin-top: 30px;
+                    margin-right: auto;
+                    margin-left: auto;
+                }
+            }
